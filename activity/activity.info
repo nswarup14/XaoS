@@ -7,4 +7,4 @@ bundle_id = org.codewiz.XaoS
 license = GPLv2+
 tags = math;oldskool
 icon = activity-xaos
-exec = bin/activity.sh
+exec = sugar-activity activity.XaoSActivity
