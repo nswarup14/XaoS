@@ -8,3 +8,4 @@ license = GPLv2+
 tags = math;oldskool
 icon = activity-xaos
 exec = sugar-activity activity.XaoSActivity
+repository = https://github.com/sugarlabs/XaoS.git
